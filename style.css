@@ -3,3 +3,6 @@
   font-size: 100px;
    margin: auto;
 }
+ul{
+  list-style-type: none;
+}
